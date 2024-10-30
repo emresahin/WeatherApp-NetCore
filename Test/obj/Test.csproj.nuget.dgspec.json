@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\emresahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emresahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Core\\Core.csproj"
+              },
+              "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\emresahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emresahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFrameworkCore.Query": {
+              "target": "Package",
+              "version": "[1.3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\emresahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emresahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\emresahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emresahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\emresahin\\Documents\\GitHub\\WeatherApp-NetCore\\Business\\Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

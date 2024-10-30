@@ -1,0 +1,32 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+# Uncomment if you have tasks that create the following files
+# *.design.* # Uncomment if you have tasks that create Designer files
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]64/
+[Ww][Ii][Nn][Mm][Rr]/
+
+# Rider settings directory
+.idea/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.lock.json
+*.targets
+*.props
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe
