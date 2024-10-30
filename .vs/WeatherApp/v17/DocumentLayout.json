@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DECC80BD-A6AE-43A7-83A9-FC6294DAC447}|UI\\UI.csproj|c:\\users\\emresahin\\source\\repos\\weatherapp\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECC80BD-A6AE-43A7-83A9-FC6294DAC447}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6F1BF3-C6F2-4EAA-8E1B-68D4CC24410D}|Test\\Test.csproj|c:\\users\\emresahin\\source\\repos\\weatherapp\\test\\userbusinesstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6F1BF3-C6F2-4EAA-8E1B-68D4CC24410D}|Test\\Test.csproj|solutionrelative:test\\userbusinesstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58F4F05-E80E-45BC-B2BE-FA0E533AF789}|Core\\Core.csproj|c:\\users\\emresahin\\source\\repos\\weatherapp\\core\\exceptionhandler\\exceptionhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58F4F05-E80E-45BC-B2BE-FA0E533AF789}|Core\\Core.csproj|solutionrelative:core\\exceptionhandler\\exceptionhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58F4F05-E80E-45BC-B2BE-FA0E533AF789}|Core\\Core.csproj|c:\\users\\emresahin\\source\\repos\\weatherapp\\core\\exceptionhandler\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58F4F05-E80E-45BC-B2BE-FA0E533AF789}|Core\\Core.csproj|solutionrelative:core\\exceptionhandler\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E9D95-A3C5-4E7D-8FC7-4FAB23C16D54}|Business\\Business.csproj|c:\\users\\emresahin\\source\\repos\\weatherapp\\business\\dataaccess\\concrete\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E9D95-A3C5-4E7D-8FC7-4FAB23C16D54}|Business\\Business.csproj|solutionrelative:business\\dataaccess\\concrete\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9E9D95-A3C5-4E7D-8FC7-4FAB23C16D54}|Business\\Business.csproj|c:\\users\\emresahin\\source\\repos\\weatherapp\\business\\dataaccess\\concrete\\citybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9E9D95-A3C5-4E7D-8FC7-4FAB23C16D54}|Business\\Business.csproj|solutionrelative:business\\dataaccess\\concrete\\citybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:27:48.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserBusinessTest.cs",
+              "DocumentMoniker": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Test\\UserBusinessTest.cs",
+              "RelativeDocumentMoniker": "Test\\UserBusinessTest.cs",
+              "ToolTip": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Test\\UserBusinessTest.cs",
+              "RelativeToolTip": "Test\\UserBusinessTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:26:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlerBase.cs",
+              "DocumentMoniker": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Core\\ExceptionHandler\\ExceptionHandlerBase.cs",
+              "RelativeDocumentMoniker": "Core\\ExceptionHandler\\ExceptionHandlerBase.cs",
+              "ToolTip": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Core\\ExceptionHandler\\ExceptionHandlerBase.cs",
+              "RelativeToolTip": "Core\\ExceptionHandler\\ExceptionHandlerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:59:13.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Core\\ExceptionHandler\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\ExceptionHandler\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Core\\ExceptionHandler\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Core\\ExceptionHandler\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:59:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Business\\DataAccess\\Concrete\\CityBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\DataAccess\\Concrete\\CityBusiness.cs",
+              "ToolTip": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Business\\DataAccess\\Concrete\\CityBusiness.cs",
+              "RelativeToolTip": "Business\\DataAccess\\Concrete\\CityBusiness.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:58:28.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Business\\DataAccess\\Concrete\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\DataAccess\\Concrete\\UserBusiness.cs",
+              "ToolTip": "C:\\Users\\emresahin\\source\\repos\\WeatherApp\\Business\\DataAccess\\Concrete\\UserBusiness.cs",
+              "RelativeToolTip": "Business\\DataAccess\\Concrete\\UserBusiness.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:57:41.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
